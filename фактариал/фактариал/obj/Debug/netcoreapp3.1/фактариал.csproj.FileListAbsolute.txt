@@ -1,0 +1,13 @@
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.exe
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.deps.json
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.runtimeconfig.json
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.runtimeconfig.dev.json
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.dll
+D:\.NET\ДЗ №3\фактариал\фактариал\bin\Debug\netcoreapp3.1\фактариал.pdb
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.csprojAssemblyReference.cache
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.AssemblyInfoInputs.cache
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.AssemblyInfo.cs
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.csproj.CoreCompileInputs.cache
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.dll
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.pdb
+D:\.NET\ДЗ №3\фактариал\фактариал\obj\Debug\netcoreapp3.1\фактариал.genruntimeconfig.cache
