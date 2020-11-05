@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\ДЗ №3\\фактариал\\фактариал\\фактариал.csproj",
+      "projectUniqueName": "D:\\.NET\\My repository\\Factarial\\фактариал\\фактариал\\фактариал.csproj",
       "projectName": "фактариал",
-      "projectPath": "D:\\.NET\\ДЗ №3\\фактариал\\фактариал\\фактариал.csproj",
+      "projectPath": "D:\\.NET\\My repository\\Factarial\\фактариал\\фактариал\\фактариал.csproj",
       "packagesPath": "C:\\Users\\berse\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\ДЗ №3\\фактариал\\фактариал\\obj\\",
+      "outputPath": "D:\\.NET\\My repository\\Factarial\\фактариал\\фактариал\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berse\\AppData\\Roaming\\NuGet\\NuGet.Config",
